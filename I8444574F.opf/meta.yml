@@ -1,0 +1,16 @@
+id: I8444574F
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:04:33.572700
+last_modified: 2023-02-08 16:04:33.572799
+source_metadata:
+  title: 'Viśeṣamitra: Vinayasaṃgraha'
+  language: zh
+bases:
+  '9185':
+    base_file: 9185.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
